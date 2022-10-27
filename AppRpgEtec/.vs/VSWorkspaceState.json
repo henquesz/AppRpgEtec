@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AppRpgEtec",
+    "\\AppRpgEtec\\Models",
+    "\\AppRpgEtec\\Services",
+    "\\AppRpgEtec\\ViewModels",
+    "\\AppRpgEtec\\ViewModels\\Personagens"
+  ],
+  "SelectedNode": "\\AppRpgEtec\\ViewModels\\Personagens\\CadastroPersonagemViewModel.cs",
+  "PreviewInSolutionExplorer": false
+}
